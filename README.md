@@ -5,7 +5,7 @@ A yazi plugin for z.lua integration
 ## Install
 
 ```sh
-git clone https://github.com/WingsZeng/z.lua.yazi.git ~/.config/yazi/plugins/z.lua.yazi
+ya pack -a hopenobug/z-lua
 ```
 
 Make sure you have lua installed and $ZLUA_SCRIPT is set to absolute path of z.lua.
