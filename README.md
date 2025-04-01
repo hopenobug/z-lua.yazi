@@ -17,6 +17,6 @@ Edit `$XDG_CONFIG_HOME/yazi/keymap.toml`:
 ```toml
 [manager]
 prepend_keymap = [
-	{ on = [ "z" ], run = "plugin z.lua", desc = "Jump to a directory using z.lua" },
+	{ on = [ "z" ], run = "plugin z-lua", desc = "Jump to a directory using z.lua" },
 ]
 ```
